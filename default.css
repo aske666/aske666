@@ -37,10 +37,9 @@ body {
 
 
 /* MAIN CONTENT */
-.content {
+.section {
   background-color: #000;
   color: #fff;
   text-align: justify;
   margin: 20px;
-  margin-top: 20px;
 }
