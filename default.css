@@ -42,3 +42,6 @@ body {
   color: #fff;
   text-align: justify;
 }
+.content .intro {
+  margin: 20px;
+}
