@@ -33,3 +33,12 @@ body {
   transform: translate(-50%, -50%); /* Position text in the middle */
   mix-blend-mode: screen; /* This makes the cutout text possible */
 }
+
+
+
+/* MAIN CONTENT */
+.content {
+  background-color: #000;
+  color: #fff;
+  text-align: justify;
+}
