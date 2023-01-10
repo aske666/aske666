@@ -41,5 +41,8 @@ body {
   background-color: #000;
   color: #fff;
   text-align: justify;
+  text-decoration: none;
+  margin-top: 50px;
   margin-left: 20%;
+  margin-right: 20%;
 }
