@@ -37,7 +37,7 @@ body {
 .content-text {
     margin-top: 10px;
 }
-.content-text a {
+a {
     margin-top: 10px;
     color: red;
 }
