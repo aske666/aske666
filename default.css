@@ -37,6 +37,10 @@ body {
 .content-text {
     margin-top: 10px;
 }
+.content-text a {
+    margin-top: 10px;
+    color: red;
+}
 
 a.page-link {
     text-decoration: none;
