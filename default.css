@@ -34,6 +34,9 @@ body {
     font-size: large;
     color: orange;
 }
+.content-text {
+    margin-top: 10px;
+}
 
 a.page-link {
     text-decoration: none;
