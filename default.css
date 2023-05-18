@@ -46,4 +46,5 @@ a.page-link {
 .content a {
     text-decoration: none;
     color: red;
+    margin-top: 10px;
 }
